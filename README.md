@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LnurISmile
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning ASP.NET MVC Core & .NET Freamwork
-- 💞️ I’m looking to collaborate on :
+- 👀 I’m interested in web development
+- 🌱 I learned ASP.NET MVC Core & .NET Freamwork
 - 📫 How to reach me : elnur0ismayilov@gmail.com
 
 <!---
